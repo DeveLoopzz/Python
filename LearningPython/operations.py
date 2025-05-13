@@ -17,3 +17,15 @@ message = "Hello "
 message += "World"
 
 print(message)
+
+##Powers
+
+print(6**3) ##Double asterisk for using power
+
+##Floor
+
+print(20//3) ##Show only the int number of a division using double slash
+
+##Module
+
+print(20 % 3) #Get the residue of the division
